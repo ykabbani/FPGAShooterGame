@@ -27,4 +27,8 @@ The game also made use of 2 onboard timers and 1 interrupt:
 
 Game Demo                  |
 :-------------------------:|
-<video src="insert link" width="250" /> |
+<video src="https://user-images.githubusercontent.com/26261828/186837343-4388c2fe-bf2e-4956-8fc2-c2a78ef73741.mp4" width="250" /> |
+
+
+
+
