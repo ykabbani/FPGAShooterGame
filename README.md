@@ -16,7 +16,7 @@ The game utilized the following on-board peripherals:
 - **10x LEDs:** player's HP bar
 - **7-segment displays:** highscore | current player score
 - **ADXL345 Digital accelerometer (I2C):** player input 
-- **Push buttons:** start/pause
+- **Push buttons:** start/pause/reset
 
 The game also made use of 2 onboard timers and 1 interrupt:
 - **Timer 1:** used for updating the LCD display
